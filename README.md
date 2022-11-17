@@ -10,5 +10,5 @@ This project has the react-native-picker/picker and axios libraries, before laun
 
 # Images
 
- <img src="ImageApp/Screenshot_1666202217.png" alt="drawing" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp; 
+ <img src="ImageApp/Screenshot_1668646389.png" alt="drawing" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp; 
   
