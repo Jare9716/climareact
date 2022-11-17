@@ -3,10 +3,11 @@
   
 # Libraries
 
-This project has the react-native-picker/picker and axios libraries, before launching the project install them.
+This project has the next libraryes:
 
-**npm i @react-native-picker/picker**
-**npm i axios**
+1. react-native-picker/picker
+2. axios
+***Don't forget to install all the libraries to run the project***
 
 # Images
 
