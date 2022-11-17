@@ -1,2 +1,4 @@
-# climareact
-APP that consults the wheather via API
+# Weather App  
+  APP that consults the weather via API OpenWeather
+  
+  
