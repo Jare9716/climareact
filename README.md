@@ -19,3 +19,6 @@ This project has the react-native-picker/picker and axios libraries, before laun
 <img src="ImageApp/Screenshot_1668646471.png" alt="drawing" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;
  
   
+# Notes
+
+Inside the APP.js is located a variable called appID that ID is your ID from OpenWeather WebPage
