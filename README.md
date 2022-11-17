@@ -7,6 +7,7 @@ This project has the next libraryes:
 
 1. react-native-picker/picker
 2. axios
+
 ***Don't forget to install all the libraries to run the project***
 
 # Images
