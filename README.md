@@ -23,4 +23,4 @@ This project has the next libraryes:
   
 # Notes
 
-Inside the APP.js is located a variable called appID that ID is your ID from OpenWeather WebPage
+* Inside the APP.js is located a variable called appID that ID is your ID from OpenWeather WebPage
